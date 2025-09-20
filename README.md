@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="./assets/images/icon.png" width="120" alt="AI Fitness App Icon" />
+  
   
   <h1 style="color:#4F8EF7;">AI Fitness App</h1>
   <p><b>Your intelligent, mobile-first fitness companion</b></p>
@@ -60,12 +60,7 @@ AI Fitness App is a beautifully designed, all-in-one platform for tracking nutri
 ---
 
 ## 📱 Screenshots
-<div align="center">
-  <img src="./assets/images/adaptive-icon.png" width="80" />
-  <img src="./assets/images/splash-icon.png" width="80" />
-  <img src="./assets/images/icon.png" width="80" />
-</div>
-*More screenshots coming soon!*
+*Screenshots coming soon!*
 
 ---
 
